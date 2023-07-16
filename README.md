@@ -1,10 +1,6 @@
 # expo-music-info-2
 New version of expo-music-info library. Compatible with Expo !
 
-Install the library command:
-```
-npm i --save expo-music-info-2
-```
 Expo-compatible React Native audio metadata extractor.
 
 Pure JavaScript.
@@ -12,7 +8,11 @@ Supports ID3v2.3.0 and ID3v2.4.0 tags (no flags).
 
 ## Getting started
 ```
-expo install expo-music-info
+expo install expo-music-info-2
+```
+Or
+```
+npm i --save expo-music-info-2
 ```
 
 ## Usage
